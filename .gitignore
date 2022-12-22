@@ -71,6 +71,9 @@ modules/
 # INI files
 *.ini
 
+# MadExcept settings file
+*.mes
+
 # MadExcept bugreport
 bugreport.txt
 
