@@ -1,2 +1,3 @@
-# delphi-template
- Delphi template project
+# Delphi/Lazarus Template
+
+ Delphi/Lazarus template project
